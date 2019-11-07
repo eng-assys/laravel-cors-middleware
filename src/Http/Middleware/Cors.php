@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelCorsMiddleware;
+namespace LaravelCorsMiddleware\Http\Middleware;
 
 use Closure;
 
