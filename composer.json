@@ -1,5 +1,5 @@
 {
-    "name": "eng_assys/laravel-uuid-trait",
+    "name": "eng_assys/laravel-cors-middleware",
     "description": "A Laravel Middleware to Handle with CORS",
     "version": "0.1.0",
     "type": "library",
