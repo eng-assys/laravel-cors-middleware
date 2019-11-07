@@ -1,0 +1,24 @@
+{
+    "name": "eng_assys/laravel-uuid-trait",
+    "description": "A Laravel Middleware to Handle with CORS",
+    "version": "0.1.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Vinicius dos Santos Assis",
+            "email": "eng.assys@gmail.com",
+            "homepage": "https://www.linkedin.com/in/lucas-assis-81646a58/",
+            "role": "Tech Leader"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LaravelCorsMiddleware\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.2",
+        "ramsey/uuid": "^3.8"
+    }
+}
